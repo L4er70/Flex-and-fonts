@@ -3,7 +3,9 @@
        width: 100%; 
        height: 100%;
        margin: 0px;
+       
        padding: 0px;
+       
        
        
    }
@@ -160,10 +162,15 @@ color: white;
 
  footer{
     background-color: #1f2937;
-    color: aliceblue;
+    color: #e5e7eb;
     height: 70px;
     text-align: center;
     padding-top: 20px;
+    font-size: 36px;
+    font: light italic;
+
+    
+
 
  }
 
